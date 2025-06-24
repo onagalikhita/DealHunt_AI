@@ -1,0 +1,2 @@
+D:/DealHunt/tsena-main/android/app/.cxx/RelWithDebInfo/6d2f2zu1/x86/CMakeFiles/edit_cache.dir
+D:/DealHunt/tsena-main/android/app/.cxx/RelWithDebInfo/6d2f2zu1/x86/CMakeFiles/rebuild_cache.dir
