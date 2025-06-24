@@ -1,16 +1,3 @@
-# tsena
+DealHunt AI is an Android application built with Flutter that helps users compare product prices across multiple e-commerce platforms. It fetches real-time data using the Pricer API via RapidAPI, displays the top lowest-priced options, and offers platform redirection. The app includes pagination, a clean UI, and an AI-powered comparison feature that recommends products based on user preferences—making smart shopping faster and easier.
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
